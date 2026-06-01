@@ -136,6 +136,5 @@ PhD Research (Economics & Finance)
 
 Bibi, M. (2026).  
 *Machine Learning Analysis of Herding Breakdown in Financial Markets*.  
-Available at: https://github.com/<>
-
-
+Available at: 
+https://github.com/mariazafran/Herding--Breakdown-ML.git
