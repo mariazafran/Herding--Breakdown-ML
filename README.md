@@ -52,10 +52,10 @@ This study introduces a **data-driven framework** to analyse herding breakdown:
 ## View Notebook
 
 🔗 **Run in Google Colab (interactive):**  
-https://colab.research.google.com/github/mariazafran/Herding-Breakdown-ML/blob/main/Herding_Breakdown_ML.ipynb  
+https://colab.research.google.com/github/mariazafran/Herding--Breakdown-ML/blob/main/Herding_Breakdown_ML.ipynb  
 
  **View notebook (recommended):**  
-https://nbviewer.org/github/mariazafran/Herding-Breakdown-ML/blob/main/Herding_Breakdown_ML.ipynb  
+https://nbviewer.org/github/mariazafran/Herding--Breakdown-ML/blob/main/Herding_Breakdown_ML.ipynb
 
 ---
 
