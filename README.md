@@ -138,5 +138,5 @@ Bibi, M. (2026).
 *Machine Learning Analysis of Herding Breakdown in Financial Markets*.  
 Available at: 
 https://github.com/mariazafran/Herding--Breakdown-ML.git
-https://colab.research.google.com/github/mariazafran/Herding-Breakdown-ML/blob/main/Herding_Breakdown_ML.ipynb
+https://colab.research.google.com/github/mariazafran/Herding--Breakdown-ML/blob/main/Herding__Breakdown_ML.ipynb
 
