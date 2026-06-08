@@ -139,7 +139,7 @@ GitHub may not display Jupyter notebooks correctly due to rendering limitations.
 ##  Author
 
 Maria Bibi  
-PhD Research (Economics & Finance)
+Research (Economics & Finance)
 
 ---
 
